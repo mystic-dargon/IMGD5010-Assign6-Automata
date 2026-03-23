@@ -1,4 +1,4 @@
-# IMGD5010 - Assign6 - Automata: The Game of Life
+# IMGD5010 - Assignment 6 - Automata: The Game of Life
 
 **Viewing the Simulation:**
 
